@@ -1,10 +1,16 @@
 _repo: Cape-Gloucester-The-Green-Inferno_48714
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48714-h/images/i_b_front_cover.jpg
 creator:
   author:
     agent_name: Nalty, Bernard C.
     gutenberg_agent_id: '44939'
     url: http://www.gutenberg.org/2009/agents/44939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48714#Cape-Gloucester-The-Green-Inferno
 gutenberg_issued: '2015-04-15'
 gutenberg_type: Text
 identifiers:
